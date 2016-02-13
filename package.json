@@ -1,5 +1,11 @@
 {
   "author": "Ivan Fraixedes <ivan@fraixed.es> (http://ivan.fraixed.es)",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "gapps": "gapps"
+  },
+  "devDependencies": {
+    "node-google-apps-script": "^1.1.4"
+  }
 }
